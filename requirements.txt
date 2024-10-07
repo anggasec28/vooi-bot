@@ -3,3 +3,4 @@ pyfiglet
 colorama
 python-dateutil
 cloudscraper
+pytransform
