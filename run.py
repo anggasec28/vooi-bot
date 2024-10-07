@@ -9,7 +9,6 @@ from colorama import Fore, Style, init
 from dateutil import parser
 from dateutil.tz import tzutc
 from pyfiglet import Figlet
-from pytransform import pyarmor_runtime
 
 init(autoreset=True)
 
